@@ -31,6 +31,8 @@ Abre tu Codespeaces
 
 una vez que te presente la terminal, cambiate al directorio codigo.
 
+![Descripción de la imagen](Imagenes/cdcodigo.png) 
+
 compila el código que viene en este ejercicio
 
 primero
