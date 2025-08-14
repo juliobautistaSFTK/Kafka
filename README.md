@@ -83,4 +83,8 @@ Regresa a la terminal inicial y ve el resultado
 ![Descripción de la imagen](Imagenes/karkavalida1.png) 
 
 
+Es importante cerra el Codespace al finalizar 
+
+![Descripción de la imagen](Imagenes/kafkacerrar.png) 
+
 
