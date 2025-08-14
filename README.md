@@ -51,7 +51,7 @@ Una vez que termine valida tecleando docker ps
 
 ![Descripción de la imagen](Imagenes/dockerpskafka.png) 
 
-Para ver el funcionamiento accede a puertos y selecciona el símbolo de mundo
+Para ver el funcionamiento accede a puertos y selecciona el símbolo de mundo del que tiene puerto 8080.
 
 ![Descripción de la imagen](Imagenes/kafkanavegador.png) 
 
