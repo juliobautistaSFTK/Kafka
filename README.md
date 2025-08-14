@@ -45,7 +45,7 @@ después
 
 Ejecuta el docker-compose para levantar los contenedores y todos los demas servicios
 
-  ####docker compose up -d
+  #### docker compose up -d
 
 Una vez que termine valida tecleando docker ps 
 
