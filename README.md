@@ -51,4 +51,14 @@ Una vez que termine valida tecleando docker ps
 
 ![Descripción de la imagen](Imagenes/dockerpskafka.png) 
 
+Para ver el funcionamiento accede a puertos y selecciona el símbolo de mundo
+
+![Descripción de la imagen](Imagenes/kafkanavegador.png) 
+
+Para ver el funcionamiento accede a puertos y selecciona el símbolo de mundo
+
+agrega al final de la url /api/kafka/send?message=Validando
+
+![Descripción de la imagen](Imagenes/kafkavalidando.png) 
+
 
