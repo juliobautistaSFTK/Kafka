@@ -61,7 +61,7 @@ agrega al final de la url /api/kafka/send?message=Validando
 
 ![Descripción de la imagen](Imagenes/kafkavalidando.png) 
 
-en la terminal copia y pega esta instruccion 
+En la terminal copia y pega esta instrucción 
 
 docker exec -it kafka kafka-console-consumer.sh \h \
   --topic test-topic \
