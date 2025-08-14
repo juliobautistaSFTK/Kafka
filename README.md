@@ -71,10 +71,9 @@ Tambien puedes interactuar con el servicio de kafka con esta instrucción desde 
 
 ![Descripción de la imagen](Imagenes/kafkanuevaterminal.png) 
 
+curl -X POST "http://localhost:8080/api/kafka/send?message=HolaKafka"
 
 ![Descripción de la imagen](Imagenes/kafkacurl.png) 
-
-curl -X POST "http://localhost:8080/api/kafka/send?message=HolaKafka"
 
 Regresa a la terminal inicial y ve el resultado
 
