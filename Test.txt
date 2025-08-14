@@ -1,1 +1,1 @@
-Repositorio para ejemplo de Kafka
+Ejemplo básico de kafka y mongodb
