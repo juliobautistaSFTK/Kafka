@@ -1,0 +1,10 @@
+package com.ejemplo.repository;
+
+import com.ejemplo.model.Mensaje;
+import org.springframework.data.mongodb.repository.MongoRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface MensajeRepository extends MongoRepository<Mensaje, String> {
+}
+

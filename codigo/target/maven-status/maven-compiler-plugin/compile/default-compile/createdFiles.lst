@@ -1,0 +1,6 @@
+com/ejemplo/repository/MensajeRepository.class
+com/ejemplo/service/KafkaConsumerService.class
+com/ejemplo/controller/KafkaController.class
+com/ejemplo/service/KafkaProducerService.class
+com/ejemplo/model/Mensaje.class
+com/ejemplo/KafkaMicroservicioApplication.class

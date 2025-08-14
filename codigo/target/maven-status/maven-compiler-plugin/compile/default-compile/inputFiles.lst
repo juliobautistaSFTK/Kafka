@@ -1,0 +1,6 @@
+/workspaces/Kafka/codigo/src/main/java/com/ejemplo/KafkaMicroservicioApplication.java
+/workspaces/Kafka/codigo/src/main/java/com/ejemplo/service/KafkaConsumerService.java
+/workspaces/Kafka/codigo/src/main/java/com/ejemplo/model/Mensaje.java
+/workspaces/Kafka/codigo/src/main/java/com/ejemplo/repository/MensajeRepository.java
+/workspaces/Kafka/codigo/src/main/java/com/ejemplo/controller/KafkaController.java
+/workspaces/Kafka/codigo/src/main/java/com/ejemplo/service/KafkaProducerService.java
