@@ -6,7 +6,7 @@ Este ejercicio está configurado para crear un Codespace y se ejecuten las instr
 
 Para acceder a los codespaces da click en <>Code, en la parte de la izquierda de tu pantalla, despues da click en <>Code que está en verde, veráz un boton que dice CrearCodespace on main.
 
-
+![Descripción de la imagen](../Imagenes/codespacekafka.png) 
 
 # **Instrucciones**
 
