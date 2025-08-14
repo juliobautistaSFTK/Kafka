@@ -70,8 +70,17 @@ docker exec -it kafka kafka-console-consumer.sh \h \
 
 ![Descripción de la imagen](Imagenes/kafkaconsumer.png) 
 
-Tambien puedes interactuar con el servicio de kafka con esta instrucción
+Tambien puedes interactuar con el servicio de kafka con esta instrucción desde otra terminar que adiciones 
+
+![Descripción de la imagen](Imagenes/kafkanuevaterminal.png) 
 
 curl -X POST "http://localhost:8080/api/kafka/send?message=HolaKafka"
+
+Regresa a la terminal inicial y ve el resultado
+
+![Descripción de la imagen](Imagenes/kafkaterminal1.png) 
+
+![Descripción de la imagen](Imagenes/karkavalida1.png) 
+
 
 
