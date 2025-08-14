@@ -12,7 +12,7 @@ Para acceder a los codespaces da click en <>Code, en la parte de la izquierda de
 
 Este código se ejecuta en lo que llamamos Codespaces.
 
-Contiene lo necesario para levantar los contenedores necesarios para ver la funcionalidad de kafka.
+Contiene lo necesario para levantar los contenedores para ver la funcionalidad de kafka.
 
 kafka-app
 
