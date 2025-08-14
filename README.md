@@ -67,7 +67,7 @@ docker exec -it kafka kafka-console-consumer.sh \h --topic test-topic --from-beg
 
 ![Descripción de la imagen](Imagenes/kafkaconsumer.png) 
 
-Tambien puedes interactuar con el servicio de kafka con esta instrucción desde otra terminar que adiciones 
+Tambien puedes interactuar con el servicio de kafka con esta instrucción desde otra terminal que adiciones 
 
 ![Descripción de la imagen](Imagenes/kafkanuevaterminal.png) 
 
