@@ -33,7 +33,7 @@ una vez que te presente la terminal, cambiate al directorio codigo.
 
 ![Descripción de la imagen](Imagenes/cdcodigo.png) 
 
-compila el código que viene en este ejercicio
+Compila el código que viene en este ejercicio, no es necesaio descargarlo, es parte del codespace
 
 primero
 
