@@ -37,15 +37,15 @@ Compila el código que viene en este ejercicio, no es necesaio descargarlo, es p
 
 primero
 
-  mvn clean install
+ #### mvn clean install
 
-despues
+después
 
-  mvn clean package
+ #### mvn clean package
 
 Ejecuta el docker-compose para levantar los contenedores y todos los demas servicios
 
-  docker compose up -d
+  ####docker compose up -d
 
 Una vez que termine valida tecleando docker ps 
 
