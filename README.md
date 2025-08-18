@@ -34,7 +34,8 @@ una vez que te presente la terminal, cambiate al directorio codigo.
 ![Descripción de la imagen](Imagenes/cdcodigo.png) 
 
 Para copiar al codespace debes permitir el copiado.
-![Descripción de la imagen](Imagenes/kafkapermitir.png) 
+
+![Descripción de la imagen](Imagenes/karfkapermitir.png) 
 
 
 Compila el código que viene en este ejercicio, no es necesaio descargarlo, es parte del codespace.
