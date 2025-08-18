@@ -104,6 +104,8 @@ Ver los datos guardados
 
 #### db.mensajes.find().pretty()
 
+
+
 Puedes ocupar este espacio para seguir practicando o hacer tus propios ejercicios.
 
 Es importante cerra el Codespace hasta finalizar. 
