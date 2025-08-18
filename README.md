@@ -86,6 +86,24 @@ Regresa a la terminal inicial y ve el resultado.
 
 ![Descripción de la imagen](Imagenes/karkavalida1.png) 
 
+Para validar lo que se ha grabado en mongo, utiliza estas instrucciones:
+
+Entrar a dbmongo
+
+#### docker exec -it mongo mongosh
+
+Mostrar las bases de datos
+
+#### show databases;
+
+Usar las base de datos
+
+#### use mensajesdb;
+
+Ver los datos guardados
+
+#### db.mensajes.find().pretty()
+
 Puedes ocupar este espacio para seguir practicando o hacer tus propios ejercicios.
 
 Es importante cerra el Codespace hasta finalizar. 
