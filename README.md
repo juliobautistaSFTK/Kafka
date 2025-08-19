@@ -104,7 +104,7 @@ Ver los datos guardados
 
 #### db.mensajes.find().pretty()
 
-
+![Descripción de la imagen](Imagenes/kafkavalidar.png) 
 
 Puedes ocupar este espacio para seguir practicando o hacer tus propios ejercicios.
 
