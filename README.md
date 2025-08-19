@@ -68,7 +68,7 @@ agrega al final de la url /api/kafka/send?message=Validando
 
 En la terminal copia y pega esta instrucción. 
 
-docker exec -it kafka kafka-console-consumer.sh \h --topic test-topic --from-beginning --bootstrap-server kafka:9092
+#### docker exec -it kafka kafka-console-consumer.sh \h --topic test-topic --from-beginning --bootstrap-server kafka:9092
 
 ![Descripción de la imagen](Imagenes/kafkaconsumer.png) 
 
@@ -76,7 +76,7 @@ Tambien puedes interactuar con el servicio de kafka con esta instrucción desde 
 
 ![Descripción de la imagen](Imagenes/kafkanuevaterminal.png) 
 
-curl -X POST "http://localhost:8080/api/kafka/send?message=HolaKafka"
+#### curl -X POST "http://localhost:8080/api/kafka/send?message=HolaKafka"
 
 ![Descripción de la imagen](Imagenes/kafkacurl.png) 
 
