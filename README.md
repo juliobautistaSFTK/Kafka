@@ -108,7 +108,9 @@ Ver los datos guardados
 
 Puedes ocupar este espacio para seguir practicando o hacer tus propios ejercicios.
 
-Es importante cerra el Codespace hasta finalizar. 
+El codespace no conserva ningun dato cada que se cierra, miestras no lo cierres se conserva tiene un límite de 30 minutos de inactividad.
+
+Es importante cerra el Codespace cuando ya no lo vayas a utilizar, ciérralo hasta finalizar. 
 
 ![Descripción de la imagen](Imagenes/kafkacerrar.png) 
 
